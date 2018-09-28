@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+.studyid:{
+	display: hidden;
+}
+
+.doc-class {
+    width: 300px;
+    height: 500px;
+    background: white;
+    position: absolute;
+    z-index: 9;
+}
+
+.update-text{
+	width:inherit;
+}
