@@ -1,0 +1,3 @@
+From centos:centos6
+ADD ./confluent-4.1.0/ /home/vaibhav/kafka	
+
