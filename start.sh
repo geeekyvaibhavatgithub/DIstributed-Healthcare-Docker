@@ -4,7 +4,6 @@
 
 directory=`echo ${PWD}`
 
-#Base Image
 
 #spark
 sudo docker build --rm --no-cache -f directory/spark/Dockerfile -t spark2.0 . 
